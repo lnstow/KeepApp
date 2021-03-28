@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">保留后台</string>
+    <string name="github">项目地址  https://github.com/lnstow/KeepApp</string>
+    <string name="info">每行一个包名，修改之后点“开始”，会自动保存</string>
+    <string name="start">开始</string>
+    <string name="stop">停止</string>
+    <string name="exit">退出</string>
+</resources>
